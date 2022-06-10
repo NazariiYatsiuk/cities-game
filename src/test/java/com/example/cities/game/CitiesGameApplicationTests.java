@@ -1,4 +1,4 @@
-package com.example.citiesgame;
+package com.example.cities.game;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

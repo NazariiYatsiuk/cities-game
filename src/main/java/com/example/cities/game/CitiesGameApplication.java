@@ -1,4 +1,4 @@
-package com.example.citiesgame;
+package com.example.cities.game;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
